@@ -73,29 +73,22 @@ education:
       GPA: 3.9/4.0
       
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Postdoctoral Fellow
+    company_name: Technische Universität München
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2024-06-01
     date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+    company_name: WestWell
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2015-09-01
+    date_end: 2017-07-31
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-
+      - Develop task assigning algorithm for multiple automonous vehicles 
+      - Develop path planning algorithm for multiple automonous vehicles 
+      - Develop simulation platform for multiple automonous vehicles
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
@@ -103,7 +96,7 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 80
+        percent: 100
         icon: code-bracket
       - name: Data Science
         description: ''
@@ -143,33 +136,19 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
-    summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
-    summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
-    summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+  - title: 'The Aoba Foundation Scholarship'
+    awarder: 'Aoba Foundation for the Promption of Engineering'
+    date: '2015-09-01'
+  - title: 'JASSO Scholarship'
+    awarder: 'Japan Sutdent Services Organization'
+    date: '2012-09-01'
+  - title: 'Tohoku University President Fellowship'
+    awarder: 'Tohoku University'
+    date: '2012-09-01'
 ---
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Wenchao Gu is a postdoctoral fellow at the TUM School of Computation, Information and Technology at Technische Universität München (TUM), working with Prof. Chunyang Chen. He received his PhD from The Chinese University of Hong Kong (CUHK) in early 2024, under the supervision of Prof. Michael R. Lyu. From July 2021 to January 2022, he interned at Microsoft Research Asia (MSRA), where he was supervised by Prof. Yanlin Wang. Prior to his time at CUHK, he was a master's student at the Graduate School of Information Sciences at Tohoku University from 2015 to 2017, supervised by Prof. Konyo Masashi. Before his master's degree, he completed his bachelor's degree in the Department of Mechanical and Aerospace Engineering at Tohoku University from 2012 to 2015 and earned the qualification for early graduation.
+
+His primary research interests include Artificial Intelligence for Software Engineering, particularly large language models, source code understanding and analysis, code generation, and vulnerability detection.
