@@ -65,21 +65,13 @@ education:
     summary: |
       GPA: 4.0/4.0
 
-      # Courses included:
-      # - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      # - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      # - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: B.Eng
+  - area: B.Eng Mechanical and Aerospace Engineering
     institution: Tohoku University
     date_start: 2012-09-01
     date_end: 2015-08-31
     summary: |
       GPA: 3.9/4.0
       
-      # Courses included:
-      # - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      # - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      # - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
