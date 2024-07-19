@@ -31,7 +31,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'wenchao.gu@tum.de'
+    url: 'mailto:wenchao.gu@tum.de'
     label: E-mail Me
   - icon: brands/github
     url: https://github.com/wcgu1993
