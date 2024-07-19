@@ -35,7 +35,7 @@ tags:
   - Artificial Intelligence
   - Software Engineering
   - Information Retrieval
-featured: false
+featured: true
 
 # links:
 # - name: ""
