@@ -1,27 +1,28 @@
 ---
-title: 'Source Code Summarization with Structural Relative Position Guided Transformer'
+title: 'Accelerating code search with deep hashing and code classification'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Zi Gong
-  - Cuiyun Gao
-  - Yasheng Wang
   - admin
-  - Yun Peng
-  - Zenglin Xu
+  - Yanlin Wang
+  - Lun Du
+  - Hongyu Zhang
+  - Shi Han
+  - Dongmei Zhang
+  - Michael R. Lyu
 
 # Author notes (optional)
 # author_notes:
 #   - 'Equal contribution'
 #   - 'Equal contribution'
 
-date: '2022-03-15T00:00:00Z'
+date: '2022-03-29T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2022-03-15T00:00:00Z'
+publishDate: '2022-03-29T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -29,10 +30,10 @@ publishDate: '2022-03-15T00:00:00Z'
 publication_types: ['paper-conference']
 
 # # Publication name and optional abbreviated publication name.
-publication: In *2022 IEEE International Conference on Software Analysis, Evolution and Reengineering*
-publication_short: In *SANER 2022* 
+publication: In *Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics*
+publication_short: In *ACL 2022* 
 
-abstract: Code search aims to retrieve semantically relevant code snippets for a given natural language query. Recently, many approaches employing contrastive learning have shown promising results on code representation learning and greatly improved the performance of code search. However, there is still a lot of room for improvement in using contrastive learning for code search. In this paper, we propose CoCoSoDa to effectively utilize contrastive learning for code search via two key factors in contrastive learning":" data augmentation and negative samples. Specifically, soft data augmentation is to dynamically masking or replacing some tokens with their types for input sequences to generate positive samples. Momentum mechanism is used to generate large and consistent representations of negative samples in a minibatch through maintaining a queue and a momentum encoder. In addition, multimodal contrastive learning is used to pull together representations of code-query pairs and push apart the unpaired code snippets and queries. We conduct extensive experiments to evaluate the effectiveness of our approach on a large-scale dataset with six programming languages. Experimental results show that":" (1) CoCoSoDa outperforms 18 baselines and especially exceeds CodeBERT, GraphCodeBERT, and UniXcoder by 13.3%, 10.5%, and 5.9% on average MRR scores, respectively. (2) The ablation studies show the effectiveness of each component of our approach. (3) We adapt our techniques to several different pre-trained models such as RoBERTa, CodeBERT, and GraphCodeBERT and observe a significant boost in their performance in code search. (4) Our model performs robustly under different hyperparameters. Furthermore, we perform qualitative and quantitative analyses to explore reasons behind the good performance of our model.
+abstract: Code search is to search reusable code snippets from source code corpus based on natural languages queries. Deep learning-based methods on code search have shown promising results. However, previous methods focus on retrieval accuracy, but lacked attention to the efficiency of the retrieval process. We propose a novel method CoSHC to accelerate code search with deep hashing and code classification, aiming to perform efficient code search without sacrificing too much accuracy. To evaluate the effectiveness of CoSHC, we apply our method on five code search models. Extensive experimental results indicate that compared with previous code search baselines, CoSHC can save more than 90% of retrieval time meanwhile preserving at least 99% of retrieval accuracy.
 
 # # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -40,7 +41,7 @@ abstract: Code search aims to retrieve semantically relevant code snippets for a
 tags:
   - Artificial Intelligence
   - Software Engineering
-  - Natural Language Processing
+  - Information Retrieval
 
 # Display this page in the Featured widget?
 featured: false
@@ -50,8 +51,8 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://arxiv.org/pdf/2202.06521'
-url_code: 'https://github.com/GoneZ5/SCRIPT'
+url_pdf: 'https://arxiv.org/pdf/2203.15287'
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
