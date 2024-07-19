@@ -6,7 +6,7 @@ type: landing
 
 design:
   # Default section spacing
-  spacing: "10rem"
+  spacing: "6rem"
 
 sections:
   - block: resume-biography-3
@@ -40,6 +40,8 @@ sections:
         Please reach out to collaborate 😃
     design:
       columns: '1'
+      css:
+        width: 120%
   # - block: collection
   #   id: papers
   #   content:
