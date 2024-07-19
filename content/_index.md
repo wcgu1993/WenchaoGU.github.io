@@ -40,8 +40,7 @@ sections:
         Please reach out to collaborate 😃
     design:
       columns: '1'
-      css:
-        width: 120%
+      css_style: "width: 120%; margin: 0 auto;"
   # - block: collection
   #   id: papers
   #   content:
