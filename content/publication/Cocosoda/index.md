@@ -40,7 +40,7 @@ abstract: Code search aims to retrieve semantically relevant code snippets for a
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-  - Software Engineering
+  - Artificial Intelligence, Software Engineering, Information Retrieval
 
 # Display this page in the Featured widget?
 featured: false
@@ -51,7 +51,7 @@ featured: false
 #   url: http://example.org
 
 url_pdf: 'https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10172679&casa_token=6zSs2a2pVCQAAAAA:rq1gEL_BxT9mjXTh40klbxGill1Vjv7fI-t1WjeRZ5UVMUPF9GPflhFrkjweQKOYswX2l4oc&tag=1'
-url_code: ''
+url_code: 'https://github.com/DeepSoftwareAnalytics/CoCoSoDa'
 url_dataset: ''
 url_poster: ''
 url_project: ''
