@@ -1,6 +1,5 @@
 ---
-title: "CRaDLe: Deep Code Retrieval Based on Semantic Dependency
-Learning"
+title: "CRaDLe: Deep Code Retrieval Based on Semantic Dependency Learning"
 authors:
   - admin
   - Zongjie Li
