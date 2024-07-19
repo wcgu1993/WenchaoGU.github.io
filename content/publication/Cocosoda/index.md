@@ -32,9 +32,9 @@ publication_types: ['paper-conference']
 
 # # Publication name and optional abbreviated publication name.
 publication: In *45th {IEEE/ACM} International Conference on Software Engineering*
-publication_short: In *ICSE*
+publication_short: In *ICSE 2023* 
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Code search aims to retrieve semantically relevant code snippets for a given natural language query. Recently, many approaches employing contrastive learning have shown promising results on code representation learning and greatly improved the performance of code search. However, there is still a lot of room for improvement in using contrastive learning for code search. In this paper, we propose CoCoSoDa to effectively utilize contrastive learning for code search via two key factors in contrastive learning":" data augmentation and negative samples. Specifically, soft data augmentation is to dynamically masking or replacing some tokens with their types for input sequences to generate positive samples. Momentum mechanism is used to generate large and consistent representations of negative samples in a minibatch through maintaining a queue and a momentum encoder. In addition, multimodal contrastive learning is used to pull together representations of code-query pairs and push apart the unpaired code snippets and queries. We conduct extensive experiments to evaluate the effectiveness of our approach on a large-scale dataset with six programming languages. Experimental results show that":" (1) CoCoSoDa outperforms 18 baselines and especially exceeds CodeBERT, GraphCodeBERT, and UniXcoder by 13.3%, 10.5%, and 5.9% on average MRR scores, respectively. (2) The ablation studies show the effectiveness of each component of our approach. (3) We adapt our techniques to several different pre-trained models such as RoBERTa, CodeBERT, and GraphCodeBERT and observe a significant boost in their performance in code search. (4) Our model performs robustly under different hyperparameters. Furthermore, we perform qualitative and quantitative analyses to explore reasons behind the good performance of our model.
 
 # # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -50,7 +50,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'http://example.org'
+url_pdf: 'https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10172679&casa_token=6zSs2a2pVCQAAAAA:rq1gEL_BxT9mjXTh40klbxGill1Vjv7fI-t1WjeRZ5UVMUPF9GPflhFrkjweQKOYswX2l4oc&tag=1'
 url_code: ''
 url_dataset: ''
 url_poster: ''
