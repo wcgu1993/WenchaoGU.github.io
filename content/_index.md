@@ -40,7 +40,7 @@ sections:
         Please reach out to collaborate 😃
     design:
       columns: '1'
-      css_class: 'custom-style'
+      css_class: custom-style
   - block: collection
     id: papers
     content:
