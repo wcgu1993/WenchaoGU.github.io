@@ -40,6 +40,12 @@ sections:
         Please reach out to collaborate 😃
     design:
       columns: '1'
+      css_style: |
+        .prose {
+          max-width: 100% !important; /* 设置新的最大宽度 */
+          width: 1200 px !important;
+          margin: 0 auto; /* 居中对齐 */
+        }
   - block: collection
     id: papers
     content:
