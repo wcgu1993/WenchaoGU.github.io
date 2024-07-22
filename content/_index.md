@@ -34,7 +34,7 @@ sections:
     content:
       title: '📚 My Research'
       subtitle: ''
-      text: 
+      text: |-
         My research interests lie at the intersection of Artificial Intelligence and Software Engineering, with a focus on leveraging large language models to advance the field. I work on applying AI techniques to automate and enhance software development processes, making production more efficient and reliable. I am particularly interested in using large language models to assist in writing code, documenting projects, and debugging. Additionally, I develop tools for better understanding and analyzing source code, which helps in maintaining and improving software systems. My research also includes generating new, functional code snippets or entire programs based on high-level specifications. Ensuring software security is another critical aspect of my work; I create AI-driven methods to detect vulnerabilities, helping to identify and mitigate potential security risks. Throughout my academic journey, I have aimed to bridge the gap between theoretical research and practical applications, striving to make software engineering more intelligent, automated, and secure.
         
         Please reach out to collaborate 😃
