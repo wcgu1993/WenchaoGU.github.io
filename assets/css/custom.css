@@ -2,8 +2,7 @@
 
 /* 确保覆盖 Tailwind CSS 的 max-width 样式 */
 .prose {
-    max-width: 160% !important; /* 设置新的最大宽度 */
-    width: 1000px;
+    width: 1000px !important;
     margin: 0 auto; /* 居中对齐 */
   }
   
