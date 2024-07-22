@@ -2,6 +2,7 @@
 
 /* 确保覆盖 Tailwind CSS 的 max-width 样式 */
 .custom-style {
-    max-width: 80% !important;
-    width: 1200 px !important;
+    max-width: 100%;
+    width: 1200 px;
+    color: crimson;
   }
