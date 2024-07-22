@@ -11,7 +11,7 @@ authors:
   - Lun Du 
   - Hongyu Zhang
   - Shi Han
-  - Dongmei Zhang and
+  - Dongmei Zhang
   - Hongbin Sun
 
 # Author notes (optional)

@@ -79,7 +79,7 @@ work:
     company_logo: ''
     date_start: 2024-06-01
     date_end: ''
-  - position: Postdoctoral Fellow
+  - position: Senior Automonous Driving Alogrithm Engineer
     company_name: WestWell
     company_url: ''
     company_logo: ''
