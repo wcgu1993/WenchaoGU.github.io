@@ -3,7 +3,7 @@ title: "XMoE: Sparse Models with Fine-grained and Adaptive Expert Selection"
 authors:
   - Yuanhang Yang
   - Shiyi Qi
-  - Wenchao GU
+  - admin
   - Chaozheng Wang
   - Cuiyun Gao
   - Zenglin Xud
