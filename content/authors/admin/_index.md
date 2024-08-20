@@ -90,7 +90,7 @@ work:
       - Develop task assigning algorithm for multiple automonous vehicles 
       - Develop path planning algorithm for multiple automonous vehicles 
       - Develop simulation platform for multiple automonous vehicles
-# Skills
+<!-- # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Technical Skills
@@ -122,7 +122,7 @@ skills:
       - name: Photography
         description: ''
         percent: 80
-        icon: camera
+        icon: camera -->
 
 languages:
   - name: English
@@ -130,7 +130,10 @@ languages:
   - name: Chinese
     percent: 100
   - name: Japanese
-    percent: 80
+    percent: 70
+  - name: German
+    percent: 10
+
 
 # Awards.
 #   Add/remove as many awards below as you like.
