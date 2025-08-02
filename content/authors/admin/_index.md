@@ -140,6 +140,9 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
+  - title: 'Distinguished Paper Award'
+    awarder: '47th IEEE/ACM International Conference on Software Engineering, 2025'
+    date: '2025-04-30'
   - title: 'The Aoba Foundation Scholarship'
     awarder: 'Aoba Foundation for the Promption of Engineering'
     date: '2015-09-01'
