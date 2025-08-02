@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title: "Wenchao GU"
-date: 2024-7-19
+date: 2025-08-02
 type: landing
 
 design:
